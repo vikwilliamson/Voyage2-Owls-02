@@ -10,5 +10,5 @@ Project manager: @irmattg
 
 Technologies: HTML, CSS + more  
 
-- [ ] Act 1: Almost complete 
-- [ ] Act 2: TBD
+- [X] Act 1: Complete
+- [ ] Act 2: In Progress
